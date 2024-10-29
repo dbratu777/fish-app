@@ -1,0 +1,8 @@
+# VSCode Configs #
+###################
+.vscode/
+
+# Build Results #
+###################
+bin/
+obj/
